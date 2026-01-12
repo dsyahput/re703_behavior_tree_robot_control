@@ -7,8 +7,10 @@ Berikut adalah diagram Behavior Tree yang digunakan pada sistem kontrol robot:
 ![Behavior Tree Diagram](images/bt_diagram.jpeg)
 
 ## Environment dan Simulasi Robot   
-Environment serta model robot yang digunakan pada project ini berasal dari repository berikut:  
+Environment serta model robot yang digunakan pada project ini berasal dari repository berikut: 
+
 https://github.com/AntoBrandi/Bumper-Bot.git    
+
 Pada simulasi robot tersebut dilakukan sedikit modifikasi, yaitu penambahan kamera pada bagian depan robot, sehingga robot memiliki point of view (PoV) ketika robot bernavigasi. 
 
 Seluruh sistem diuji menggunakan:
