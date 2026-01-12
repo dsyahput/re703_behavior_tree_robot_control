@@ -38,7 +38,8 @@ source install/setup.bash
 Gunakan perintah berikut untuk menampilkan kamera point of view (PoV) robot:
 ```  
 ros2 run re703_behavior_tree_robot_control main_cam
-```  
+```
+### Menjalankan Behavior Tree     
 Gunakan perintah berikut untuk menjalankan Behavior Tree pada robot:
 ```
 ros2 run re703_behavior_tree_robot_control main_bt
