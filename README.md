@@ -1,6 +1,11 @@
 # RE703 – Behavior Tree Robot Control   
 Repository ini berisi package ROS 2 yang digunakan untuk mengendalikan perilaku (behavior) robot menggunakan konsep Behavior Tree. Repository ini dibuat untuk menyelesaikan Tugas Akhir mata kuliah Kendali Robotika (RE703).
 
+## Anggota Kelompok
+Berikut adalah anggota kelompok yang terlibat dalam pengerjaan tugas ini:   
+* Danni Syahputra - 4222201001
+* Daipansyah Arya Saputra - 4222201009
+
 ## Behavior Tree Diagram  
 Berikut adalah diagram Behavior Tree yang digunakan pada sistem kontrol robot:
 
